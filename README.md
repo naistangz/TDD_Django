@@ -1,13 +1,13 @@
 # Test Driven Development with Django
 
 **Contents**
--[x][Why TDD?](#why-tdd)
--[x][TDD Philosophy](#tdd-philosophy)
--[x][Functional Tests](#using-djangos-test-suite-for-functional-testing)
--[x][Unit Tests](#writing-unit-tests)
--[x][Ajax Testing](#ajax-testing)
--[x][Deployment Testing](#deployment-testing)
--[x][Edge cases TDD](#edge-cases-for-tdd)
+-[x] [Why TDD?](#why-tdd)
+-[x] [TDD Philosophy](#tdd-philosophy)
+-[x] [Functional Tests](#using-djangos-test-suite-for-functional-testing)
+-[x] [Unit Tests](#writing-unit-tests)
+-[x] [Ajax Testing](#ajax-testing)
+-[x] [Deployment Testing](#deployment-testing)
+-[x] [Edge cases TDD](#edge-cases-for-tdd)
 
 
 ## Why TDD?
