@@ -1,6 +1,6 @@
 # Test Driven Development with Django
 
-**Contents**
+**Contents**\
 -[x][Why TDD?](#why-tdd)
 -[x][TDD Philosophy](#tdd-philosophy)
 -[x][Functional Tests](#using-djangos-test-suite-for-functional-testing)
